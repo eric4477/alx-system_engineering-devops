@@ -10,5 +10,5 @@ do
     else
         echo "Best School"
     fi
-    let x+=1
+    (( x++ )) || true
 done
