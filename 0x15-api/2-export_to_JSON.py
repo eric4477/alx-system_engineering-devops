@@ -30,3 +30,5 @@ if __name__ == "__main__":
     filename = user_id + '.json'
     with open(filename, mode='w') as f:
         json.dump(todo_user, f)
+
+# Newline character added here
