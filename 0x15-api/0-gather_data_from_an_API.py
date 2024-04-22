@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-"""For a given employee ID, returns information about their TODO"""
+"""
+Checks student output for returning info from REST API
+"""
 
 import requests
 import sys
